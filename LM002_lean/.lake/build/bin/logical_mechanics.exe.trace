@@ -1,0 +1,16 @@
+{"synthetic": false,
+ "outputs": "11422739442557341429",
+ "log":
+ [{"message":
+   ".> c:\\Users\\jdlon\\.elan\\toolchains\\leanprover--lean4---v4.22.0\\bin\\clang.exe -o C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\bin\\logical_mechanics.exe @C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\bin\\logical_mechanics.exe.rsp",
+   "level": "trace"}],
+ "inputs":
+ [["linkObjs",
+   [["C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\ir\\Main.c.o.noexport",
+     "11184875561303195038"]]],
+  ["linkLibs", "1723"],
+  ["Lean 4.22.0, commit ba2cbbf09d4978f416e0ebd1fceeebc2c4138c05",
+   "8739116525927611134"],
+  ["traceArgs: #[]", "1723"],
+  ["x86_64-w64-windows-gnu", "3894966287860160785"]],
+ "depHash": "9943767517865223556"}
