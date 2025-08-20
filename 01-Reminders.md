@@ -24,7 +24,7 @@ or - for the whole repo
 
 git add -A 
 git commit -m "Latest updates"
-git push origin main
+git push origin master
 ```
 
 Here’s a **simple Git cheat sheet** with the essentials:
