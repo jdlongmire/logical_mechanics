@@ -8,6 +8,7 @@ package logical_mechanics
 
 lean_lib LogicalMechanics
 
+@[default_target]
 lean_lib LeanProofs {
   srcDir := "lean_proofs"
 }
