@@ -1,0 +1,1972 @@
+00:00 brian Green welcome to the show Thank
+00:02 you so much The Elegant Universe turns
+00:05 25 this year just like me Uh I wish I
+00:09 could say that about myself I'd like to
+00:12 get into what's changed where we're at
+00:14 but I think it's going to require
+00:16 starting with the question that I'm sure
+00:18 you've never been asked before What is
+00:20 string theory yes Uh good question
+00:24 There are a number of ways of framing
+00:26 what string theory is about but perhaps
+00:28 from the largest perspective it's an
+00:31 attempt to realize a dream that really
+00:33 begins with Albert Einstein which is
+00:36 this idea that we have a single universe
+00:40 So we should have a single theoretical
+00:42 explanation for how that universe works
+00:45 And that single explanation should be
+00:47 mathematical And so there should be some
+00:49 grand mathematical formula some
+00:52 mathematical equation that would
+00:54 describe everything in the universe And
+00:57 Einstein sought this so-called unified
+00:59 theory for decades but he never found it
+01:03 And string theory just may be the theory
+01:07 that Einstein was looking for Now what
+01:10 kinds of problems is the scientific
+01:13 community faced with that leads them to
+01:15 come up with something like string
+01:17 theory i mean we already had a lot of
+01:18 ideas about what the universe was made
+01:20 of the different constituent particles
+01:22 and stuff So where do we get this
+01:23 vibrating strings thing yeah absolutely
+01:26 So from my initial description it might
+01:28 seem like it was more of an aesthetic or
+01:31 a philosophical motivation to try to
+01:33 find this unified theory But it goes far
+01:35 deeper than that because there are these
+01:38 two main ideas two main pillars that
+01:42 support physics as we have understood it
+01:44 since really the middle of the 20th
+01:48 century And that is quantum physics
+01:50 which describes the smallest things in
+01:52 the world the elementary particles that
+01:54 make up matter and Einstein's general
+01:56 theory of relativity which really
+01:58 describes the biggest things where
+01:60 gravity matters stars galaxies black
+02:02 holes the entire universe And the
+02:06 problem is that even though quantum
+02:08 mechanics works incredibly well in the
+02:11 micro domain and general relativity
+02:13 works incredibly well in the macro
+02:15 domain whenever you try to put the two
+02:18 mathematical theories together it breaks
+02:20 down When you do any calculation that
+02:23 blends the math of quantum mechanics and
+02:25 the math of general relativity you get
+02:27 one single answer And that answer is
+02:29 infinity And infinity might sound well
+02:33 that's kind of you know cool and poetic
+02:35 sounding but it's
+02:36 nonsensical in the context of physics
+02:39 There's no quantity that you can measure
+02:41 that's ever infinity So infinity is a
+02:44 diagnostic which basically the
+02:46 mathematics uses to kind of grab us by
+02:50 the lapels and slap us in the face and
+02:52 say you are doing something wrong You've
+02:55 got to find a new description that puts
+02:57 quantum mechanics and general relativity
+02:59 together And that is what string theory
+03:02 does at least in principle on paper And
+03:06 I need to stress that this is not a
+03:08 tested theory We don't know if it's
+03:10 correct But mathematically for the first
+03:12 time it does show a way of bridging the
+03:15 gap between these two theories So does
+03:18 this tell us that of general relativity
+03:21 and quantum mechanics at least one of
+03:23 them is sort of wrong i mean people
+03:26 often talk about general relativity is
+03:28 coming along to replace Isaac Newton's
+03:31 understanding of gravity and they say
+03:32 Newton was was kind of almost there but
+03:34 but ultimately he was wrong Is that the
+03:37 same approach we need to take of
+03:39 something like general relativity as
+03:40 well it is but I would caution to to see
+03:44 it in that historical context that
+03:46 you've just made reference to because
+03:50 it's a little strong to say that Newton
+03:52 was wrong I would say that any physical
+03:56 theory that we ever write down is meant
+03:59 to describe the universe in a certain
+04:01 domain Mhm And when we gain better
+04:05 equipment and when we make progress we
+04:08 try to extend the domain of
+04:10 applicability of our understanding And
+04:13 when we do that we almost always find
+04:16 that the ideas from the earlier
+04:17 generation yes they really work in the
+04:20 original domain but when you go beyond
+04:22 that domain you need to update them You
+04:24 need to replace them And so Newton did a
+04:27 wonderful job at describing the orbits
+04:29 of the planets General relativity comes
+04:32 along and says "Well actually if you can
+04:34 go a little bit further than just the
+04:35 orbits of planets if you want to
+04:37 understand more extreme environments
+04:39 like black holes then you need these new
+04:42 ideas of the general theory of
+04:43 relativity." And that is indeed the
+04:46 process that we feel we're likely
+04:49 recapitulating now because when you try
+04:52 to put quantum mechanics and general
+04:53 relativity together you do find at least
+04:57 in the string theoretic context that
+04:59 general relativity has to yield to
+05:02 additional terms additional mathematical
+05:04 constructs that Einstein himself did not
+05:07 write down And so yes as we try to go
+05:10 beyond even the domain that Einstein
+05:13 successfully described when we try to
+05:15 put quantum theory into the story which
+05:17 Einstein did not do we do find that
+05:20 general relativity gets modified Now it
+05:23 could also be that quantum mechanics
+05:24 gets modified This is an idea that
+05:26 people are talking about today So that
+05:29 would again fit into exactly the same
+05:31 template Earlier ideas when you try to
+05:33 go further require new concepts new
+05:36 ideas they have to be modified Do you
+05:38 think that there is a sentimentality in
+05:41 physics where people kind of want to
+05:44 cling on to these famous revolutionary
+05:47 ideas because as well as them being
+05:50 really impressive as as theories they're
+05:52 exciting You're familiar with them And
+05:54 so when you're faced with something that
+05:56 causes you to abandon something so
+05:58 familiar do you think there is a
+05:60 psychological barrier for a lot of
+06:01 physicists i think it's really depending
+06:04 on which physicist you're talking about
+06:06 So are there some in the history of
+06:10 physics where you can find reasonable
+06:13 evidence that they were reluctant to
+06:16 take the new step because they were so
+06:19 tied to the old way of looking at things
+06:22 Yes you can even in some way say that
+06:25 about Einstein in some ways when quantum
+06:27 mechanics came along and was suggesting
+06:30 that the best you could ever do is
+06:32 predict the likelihood the probability
+06:34 of one or another outcome very different
+06:36 from the classical perspective that
+06:38 Einstein was used to where you tell
+06:40 Einstein how things are today and
+06:42 Einstein will tell you how they will be
+06:44 tomorrow with 100% certainty coming from
+06:47 the mathematical equations when quantum
+06:49 mechanics began to chip away at that
+06:52 picture yes is there some evidence that
+06:54 Einstein resisted it absolutely but I
+06:58 would say that the dominant perspective
+07:00 of most physicists including Einstein
+07:02 himself is that it is so exciting
+07:05 exciting when there is a radically new
+07:08 way of thinking about the world And so I
+07:13 would say the
+07:14 dominant way in which physicists
+07:16 approach their work is that they look
+07:19 for the opportunity to take us to a new
+07:24 place And so while yeah I mean you know
+07:27 we do get comfortable with certain ways
+07:30 of thinking about things in the end of
+07:31 the day most of us are all too happy to
+07:35 be part of a revolution if that
+07:37 revolution is well motivated by
+07:39 experiment and theoretical calculations
+07:43 So string theory what are the strings of
+07:47 string theory yeah So when we get into
+07:49 the details of this approach to put
+07:52 quantum mechanics and general relativity
+07:53 together we find that historically the
+07:57 essential move was to say look the old
+08:00 paradigm is that matter is made up of
+08:03 these little particles electrons and
+08:06 quarks little tiny dotlike structures
+08:10 The new idea of string theory was to say
+08:12 what if they're not little dots what if
+08:14 they are extended little filaments what
+08:17 if if you took a powerful microscope and
+08:20 you looked into the heart of matter and
+08:22 you didn't find a swarm of little dots
+08:25 but you found a swarm of little
+08:27 vibrating
+08:28 filaments And the motivation for that
+08:31 came from the fact that with that move
+08:35 the tension between quantum mechanics
+08:37 and general relativity went away Mhm
+08:40 That little tiny move from dot to
+08:42 filament was what you needed for the
+08:44 mathematics of these two theories to
+08:45 harmoniously meld together So if this
+08:49 picture is correct the electron would be
+08:51 a little vibrating filament and the
+08:54 quirks they would be little vibrating
+08:57 filaments and the different vibrational
+08:59 patterns like the different musical
+09:01 notes on a musical string would
+09:04 correspond to the different particles
+09:05 that make up the world So it's kind of
+09:07 like the universe becomes this
+09:11 microscopic cosmic symphony of vibrating
+09:14 film It's a very beautiful and poetic
+09:16 picture that we can make rigorous and
+09:19 mathematical and mathematically
+09:20 beautiful as well So I keep getting told
+09:23 I'm not a mathematician I couldn't
+09:24 possibly vouch for it But it does sound
+09:26 a little bit like I mean you told me a
+09:28 second ago that string theory hasn't
+09:29 been proven It's not been sort of
+09:32 experimentally verified I was under the
+09:34 impression that the thing that was so
+09:36 great about the scientific enterprise
+09:38 physics is that we can do that We can we
+09:41 can have hypothesis We can test them We
+09:44 make predictions and if those
+09:45 predictions come true that's how we know
+09:47 we've got a good theory This sounds a
+09:49 little bit like it's working in the
+09:50 opposite direction We've got this
+09:52 problem and here's a mathematical way of
+09:54 thinking about it that will plug in
+09:56 those gaps But is that an appropriate
+09:59 way to be doing science well I would say
+10:01 it's not really going against the grain
+10:03 of what we always do It's more that the
+10:07 time scales involved for being able to
+10:10 check the mathematical predictions are
+10:12 much longer Even in this case we don't
+10:15 know how long they will be compared to
+10:17 things in the past So take Einstein and
+10:20 his special theory of relativity There
+10:23 was a real puzzle that he faced which
+10:25 had to do with properties of light and
+10:28 its motion He wrote down some
+10:30 mathematical ideas just out of his head
+10:33 and thinking about the data and the
+10:35 situation and very quickly those ideas
+10:39 could be tested In the general theory of
+10:41 relativity 10 years later he writes down
+10:44 equations to try to gain some insight
+10:47 into problems to do with the force of
+10:49 gravity Within four years you could test
+10:53 those predictions through the solar
+10:55 eclipse of May 1919 There's a four-year
+10:57 gap between the math and say the
+10:59 confirmation Here we are with string
+11:02 theory and I don't know exactly where
+11:05 you want to date the theory from but
+11:07 give it sort of you know 30 years or
+11:10 something 40 years and we haven't been
+11:12 able to test it So the time scale is
+11:14 longer Will we test it in 50 or 100 i
+11:18 don't know It really depends on how
+11:19 quickly our mathematics continues to
+11:21 develop and importantly how quickly our
+11:24 technology continues to develop That's
+11:27 really part of the problem here any
+11:30 theory I don't care if it's string
+11:32 theory or loop quantum gravity another
+11:35 approach that people have developed If
+11:37 it's putting gravity and quantum
+11:39 mechanics together it will distinguish
+11:43 itself in realms that are incredibly
+11:46 tiny or incredibly massive That's where
+11:49 the tension between general relativity
+11:51 and quantum mechanics surfaces And so
+11:54 you're going to have to have experiments
+11:55 that can probe incredibly small or
+11:58 incredibly energetic realms And we are
+12:02 reaching I wouldn't say the limit but a
+12:05 challenge to go beyond say the large
+12:07 hadron collider in Geneva Switzerland We
+12:09 used to have small colliders bigger
+12:11 bigger now we've got this 18 mile ind
+12:14 you know circumference uh you know
+12:16 accelerator How much bigger can you get
+12:19 and we don't know that we can get to the
+12:21 scales necessary to test these ideas
+12:24 Because if you naively look at how big
+12:26 the accelerator would need to be it
+12:28 would need to be as big as the galaxy
+12:31 That's how much we've leapfrogged
+12:34 mathematically And that's what
+12:37 distinguishes this situation from say
+12:40 special relativity or general relativity
+12:41 or the standard model of particle
+12:43 physics Well
+12:45 how is it possible in principle even if
+12:48 we did have some galactic you know
+12:52 collider how do we experimentally
+12:54 confirm that all fundamental matter
+12:57 breaks down into into vibrating strings
+12:59 how does that It's a key question And if
+13:02 you allow me to imagine that we had
+13:06 arbitrarily energetic equipment
+13:09 arbitrarily able to probe to
+13:11 increasingly small scales or maybe we
+13:15 talked to an alien civilization and
+13:17 they've cracked this problem Are there
+13:19 tests of string theory yeah String
+13:21 theory says that if you were to slam
+13:24 particles together at sufficiently high
+13:26 energies we would see things that string
+13:29 theory predicts that you would not see
+13:32 in more conventional approaches And we
+13:34 can write down what those features would
+13:37 be So in principle they would be
+13:39 testable Those are like new kinds of
+13:41 particles New kinds of particles the way
+13:44 in which the particles slam and bounce
+13:46 off of each other the so-called
+13:48 scattering amplitudes they're different
+13:51 in this approach than they would be in a
+13:53 more conventional approach And so there
+13:56 are diagnostic tests that in principle
+13:60 we could carry out if we had this
+14:02 arbitrarily powerful equipment which we
+14:05 do not have We'll get back to Brian
+14:07 Green in just a moment but first do you
+14:09 trust the news i don't And a lot of that
+14:12 has got to do with the bias that
+14:13 inevitably seeps into reporting Wouldn't
+14:15 it be great if there were a way for us
+14:17 as consumers of news in this media
+14:19 landscape to navigate bias objectively
+14:22 comparing the way that different sources
+14:24 are reporting on the same story Well
+14:26 luckily that is exactly what today's
+14:27 sponsor Ground News allows you to do
+14:29 Ground News aggregates thousands of
+14:31 local and international news outlets all
+14:34 in one place so you can compare
+14:35 reporting across the political spectrum
+14:37 Try it out at
+14:39 ground.news/alexoc Take a look at this
+14:41 story about how 1ifth of pollinators in
+14:44 North America are at risk of extinction
+14:46 On ground news I can see that of all the
+14:48 sources reporting on this story only 9%
+14:51 of them are right-leaning This means
+14:53 that if you only normally tend to read
+14:54 rightle leaning news you could have
+14:56 missed this story altogether And Ground
+14:57 News even has a dedicated blind spot tab
+14:60 which specifically seeks out stories
+15:01 that you would otherwise missed based on
+15:03 your specific reading habits Nowhere is
+15:06 doing news aggregation like Ground News
+15:08 Try it out for yourself at
+15:11 ground.news/alexoc or by scanning the QR
+15:13 code that's currently on your screen Use
+15:15 my link to get 40% off their unlimited
+15:18 access Vantage plan That said back to
+15:20 Brian Green What do you think Einstein
+15:21 would have made of string theory well I
+15:23 think at first he would have resisted it
+15:26 a bit because it does involve some
+15:31 pretty far out ideas And so as you were
+15:34 saying it does take a while for even
+15:38 psychologically people to acclimatize to
+15:42 a different way of thinking about things
+15:44 But I have little doubt that if Einstein
+15:47 took the time and I think that he would
+15:48 to sit down and learn about these ideas
+15:51 the fact that it involves his own
+15:53 general theory of relativity the fact
+15:55 that it does incorporate quantum physics
+15:57 which he resisted but ultimately
+15:59 recognized was a powerful way of
+16:01 describing the world the fact that it
+16:03 involves extra dimensions of space an
+16:06 idea that Einstein himself spent some
+16:09 time thinking about All of these
+16:12 ingredients I think ultimately Einstein
+16:14 would find exciting and mathematically I
+16:17 think he would be bowled over by the
+16:20 beautiful way in which string theory
+16:21 brings it all together I do think he
+16:25 would ask the very same question that
+16:26 you did How do you test this how do we
+16:29 know that this isn't just pure
+16:31 mathematics and that would take us into
+16:34 a wonderful conversation along the lines
+16:36 of the material that we just discussed
+16:38 So yeah I think he would warm to these
+16:40 ideas pretty quickly Do you think we're
+16:42 sort of in the realm of philosophy here
+16:44 one of the criticisms that I see of
+16:45 string theory as somebody who doesn't
+16:47 understand the first thing about it is
+16:50 that because of this lack of
+16:51 experimental
+16:52 data you can say that in principle it
+16:54 could be tested But there are all kinds
+16:56 of philosophical theories that in
+16:57 principle we could test Ideas about
+16:60 personal identity or Star Trek
+17:02 teleporters and would the person still
+17:04 be the same person if you reconstructed
+17:06 all of their atoms I can I can sort of
+17:07 hypothesize a way to test that in in
+17:09 principle but because that is so
+17:11 far-fetched it's squarely in the realm
+17:13 of philosophy rather than science Do you
+17:15 think that string theory for that reason
+17:16 might belong there at least for now too
+17:18 well I guess two quick things One there
+17:20 are some who would view a
+17:24 categorization of being in the
+17:26 philosophical domain as somehow
+17:30 denigrating the ideas And I don't see it
+17:33 that way at all I mean if we are in a
+17:36 philosophical realm
+17:38 fantastic philosophy is wonderful up if
+17:41 you ask me Yeah Yeah Exactly So you know
+17:43 so I I don't view that as some kind of a
+17:45 black mark against physical theory If it
+17:48 raises philosophical questions but
+17:50 you're saying something slightly
+17:51 different You're saying because we can't
+17:53 directly test it Should it be called
+17:56 science perhaps we can frame it that way
+17:59 And I think the answer to that is
+18:00 absolutely yes Because science is not
+18:04 about ideas that can be put forward and
+18:07 then tested immediately Science about
+18:10 putting forward ideas that solve
+18:12 critical problems that can be tested at
+18:15 least in principle at some point And
+18:18 that's really important because if you
+18:20 put forward an idea that's meant to be
+18:23 scientific but someone can establish you
+18:26 can't possibly in any way shape or form
+18:30 ever test that idea then it's hard to
+18:32 see that it fits within the
+18:34 categorization of science But if you put
+18:37 forward an idea which at least in
+18:38 principle you could test if you had the
+18:41 right equipment then to me if it solves
+18:44 certain key problems if it advances your
+18:47 understanding theoretically of things
+18:49 like black holes and the big bang and
+18:52 the nature of space and the nature of
+18:54 time which is what string theory does
+18:56 then it's absolutely worth your
+18:59 investigating it And it absolutely falls
+19:01 squarely in the realm of science But it
+19:04 also raises certain problems as well as
+19:06 solving problems right yeah I mean there
+19:08 are problems in the sense of just
+19:09 counterintuitive implications like I
+19:12 don't know how many dimensions is it
+19:13 that we're supposed to believe in these
+19:15 days 11 12 you know 30 I think it 11's a
+19:18 good number Yes Depends who you ask
+19:20 Which
+19:21 typically is quite difficult for people
+19:23 to imagine um and to swallow Although as
+19:26 far as I understand it there's something
+19:28 about the way that strings vibrating in
+19:30 these dimensions uh there's something
+19:32 about that which would produce the long
+19:36 sought after graviton particle right and
+19:38 and so scientists for a long time have
+19:40 expected that there would be this
+19:41 particle called the graviton which is
+19:43 like the the fundamental unit of gravity
+19:46 And if you do the maths for string
+19:48 theory you predict this graviton And so
+19:51 when people say that string theory has
+19:53 no predictive power it's like okay we
+19:56 haven't made a prediction of something
+19:57 that we don't know if it exists yet and
+19:58 then found it It does predict one
+20:01 important thing which is the existence
+20:02 of gravity because we've known that
+20:04 gravity's existed for a long time but
+20:06 right we haven't actually been able to
+20:07 to find it in the way that maybe string
+20:09 theory can Right Yeah So I mean I'm fond
+20:12 of taking that line of discussion too
+20:15 but I think of it more as a postdiction
+20:18 rather than a prediction for the very
+20:20 reason that you mentioned We've known
+20:22 about gravity Isaac Newton wrote down a
+20:25 mathematical understanding of gravity
+20:27 But if you imagine a counterfactual
+20:30 universe for instance a universe in
+20:32 which there was no Einstein and we did
+20:35 not have Einstein's general theory of
+20:37 relativity and yet somehow people came
+20:39 upon string theory and they began to
+20:42 study the mathematics of string theory
+20:44 within the math of string theory a
+20:46 clever string theorist would extract the
+20:49 general theory of relativity Wow And so
+20:52 that feels very gratifying Yeah That
+20:56 these ideas hold together with such a
+20:59 rich and and powerful cohesiveness And
+21:02 you're absolutely right because quantum
+21:05 mechanics is also part of string theory
+21:08 It wouldn't just be the general theory
+21:10 of relativity It would be the quantum
+21:12 version of the general theory of
+21:14 relativity which does involve these
+21:16 particles called gravitons So string
+21:18 theory naturally does give rise to the
+21:21 quantum mechanical carrier of the
+21:23 gravitational force which is the
+21:25 graviton But look I need to emphasize no
+21:27 one's ever detected a graviton It's the
+21:30 smallest particle of the weakest of all
+21:33 forces So we're not surprised that it's
+21:36 been a challenge to ever capture a
+21:39 graviton and detect it directly We're
+21:41 not surprised by that But it is a
+21:43 beautiful thing that this idea that
+21:46 predates string theory naturally yields
+21:50 the very same structure when you study
+21:53 the math of string theory That's in the
+21:55 maths That's that's the interesting
+21:56 thing Now one thing that I'm a little
+21:60 bit confused about is how
+22:02 something about these different
+22:04 dimensions and the different ways that
+22:07 they could could exist the different
+22:08 sort of structures that they could have
+22:10 I'm not sure if it's related to the
+22:12 dimensions themselves or the shapes or
+22:14 whatever but I hear a lot of people talk
+22:15 about how string about how string theory
+22:18 points towards this explosion of
+22:21 multiple universes some kind of
+22:23 multiverse picture I don't know if it
+22:24 produces like a a potentially infinite
+22:27 number of universes or if it's like some
+22:29 precise number of
+22:31 700,046 when you actually do the
+22:33 calculation but something about lots of
+22:35 universes Yeah So when I was a graduate
+22:38 student way back in the 1980s long
+22:42 before you were born and I began to work
+22:45 on string theory the aspect that caught
+22:48 my attention was its need for these
+22:51 extra dimensions of space And briefly
+22:54 when you study the math of string theory
+22:55 there's an equation and the equation
+22:58 cannot be solved if there aren't these
+23:00 extra dimensions of space So that's
+23:02 where the idea does come from And when I
+23:06 was a graduate student people began to
+23:08 think about what those extra dimensions
+23:10 of space might look like The idea is
+23:12 that they're very small They're crumpled
+23:15 They're all around us but they're so
+23:17 tiny that we can't directly see them the
+23:19 way we can directly see you know left
+23:22 right back forth and up down right the
+23:24 three dimensions of common experience
+23:26 And so if they're crumpled up what's the
+23:29 shape into which they are crumpled
+23:32 and in the 1980 mid1 1980s scientists
+23:36 mathematicians wrote down five possible
+23:40 shapes And at that point people thought
+23:43 those might be the only possible shapes
+23:45 that would meet the mathematical
+23:47 requirements So as a graduate student I
+23:50 started to study those shapes to see
+23:52 what physics they might give rise to And
+23:54 that's what my doctoral dissertation was
+23:57 all about And that seemed kind of a
+23:59 beautiful thing a small number of
+24:01 possibilities Maybe we can either rule
+24:03 them all out and get rid of string
+24:05 theory or maybe one of them describes
+24:07 our world and wow that would be amazing
+24:10 The problem is as you made reference to
+24:12 as people began to study the math
+24:14 further and further five possible shapes
+24:17 grew to six grew to 10 grew to a million
+24:21 grew to a billion grew to a trillion
+24:24 grew to 10 to the 500 M that little list
+24:28 of five possible shapes is now an
+24:31 enormous list of possibilities And so
+24:34 what do you do with that well one idea
+24:37 that people put forward is maybe all of
+24:40 them are real in the sense that all of
+24:43 them are realized in the sense that
+24:46 there are many
+24:47 universes in which each of those shapes
+24:51 constitutes the extra dimensions in that
+24:53 universe Yeah And this is an idea that
+24:56 really was spearheaded by Leonard Suskin
+24:59 who was thinking about these ideas in
+25:01 the context of inflationary cosmology
+25:04 and in the context of a puzzle called
+25:06 the cosmological constant problem And
+25:08 when he put all these ideas together it
+25:11 naturally should suggested that maybe
+25:13 there are multiple big bangs yielding
+25:16 multiple universes each with a different
+25:20 shape for the extra dimensions That's
+25:22 where this multiverse comes from And
+25:24 that's because of the the possibility of
+25:27 different ways that these dimensions
+25:30 could be could be shaped and
+25:32 organized to me I mean that that is of
+25:35 course really interesting but a lot of
+25:37 people will listen to that and think
+25:40 what if there's just some other reason
+25:42 why the dimensions are as they are in
+25:45 our actual universe i mean the fact that
+25:47 a bunch of other realities are
+25:48 mathematically possible doesn't mean
+25:50 that they actually exist Yes Is positing
+25:53 that they just do exist just sort of a
+25:56 convenient way to get around the problem
+25:57 of explaining why the universe is the
+25:59 way it is Yes that is certainly a
+26:01 possible way that this story might
+26:05 ultimately be told
+26:08 And it could be that there is some
+26:11 mathematical equation that we've yet to
+26:14 find And when you look at that
+26:16 mathematical equation you solve it Maybe
+26:18 it says ah that's the shape shape
+26:23 22,462 Maybe that will come out of some
+26:25 fundamental mathematical calculation At
+26:28 which point we'll say all the other
+26:29 shapes were speurious They were
+26:33 potential shapes when we didn't know
+26:35 about this other mathematical condition
+26:38 But with this new condition they're gone
+26:40 and there just this one shape And that
+26:42 would be a very beautiful resolution to
+26:44 all of this We've yet to find anything
+26:47 like that equation Would we have to rule
+26:50 out those possibilities because s such
+26:52 an equation would say that all of these
+26:55 trillions of other potential ways of
+26:57 organizing the universe actually can't
+26:59 obtain Uh we just didn't realize it
+27:02 before Would we have to show its
+27:03 impossibility in that sense to show that
+27:06 it didn't in fact exist or is there a
+27:08 world in which we can prove actually
+27:09 they are all definitely possible and yet
+27:12 we know that they don't exist sure it
+27:14 could just be historical contingency If
+27:17 we understood the origin of the universe
+27:19 better and if we understood the
+27:21 dynamical processes by which the
+27:24 universe evolved from however it began
+27:27 to its current state of being Maybe when
+27:30 we just look at that history we go "Oh
+27:32 oh look that shape is picked out by the
+27:35 historical progression The others are
+27:38 possible They solve the equations
+27:40 they're just not realized because of the
+27:42 particular set of steps that took us
+27:45 from the beginning until today That's
+27:46 another possibility But I do want to
+27:48 emphasize that when when Suskime was
+27:50 thinking about this he was thinking
+27:54 dynamically because when you look at
+27:57 this approach to cosmology called
+27:60 inflationary cosmology you find within
+28:03 it very naturally that our big bang was
+28:06 not a one-time event You find very
+28:09 naturally from the mathematics that our
+28:11 big bang would be one of many big bangs
+28:15 giving rise to one of many
+28:18 universes And Suskin simply said if we
+28:21 port that idea from inflationary
+28:23 cosmology into string theory then very
+28:26 naturally those distinct big bangs could
+28:29 have distinct shapes for the extra
+28:30 dimensions
+28:32 M man
+28:34 So I'm thinking there's something quite
+28:38 profound underlying all of this and all
+28:40 of these considerations And what's
+28:43 coming to mind for me is that you talked
+28:46 before a little bit about these
+28:47 particles these potential gravitons but
+28:51 also have quarks or quarks or however
+28:53 you want to say it And you've got
+28:54 nutrinos and you've got electrons And
+28:57 part of the story of science is trying
+28:58 to explain why that is the way that it
+29:01 is I mean so much of science is
+29:02 descriptive right like we we look inside
+29:06 of an atom and we find that it's made of
+29:08 protons neutrons and electrons and we
+29:11 feel that thereby we've sort of
+29:13 explained something like we understand
+29:16 the atom whereas as far as I'm concerned
+29:19 all we've really done is just described
+29:20 it in further detail and we haven't
+29:22 really shifted the needle on the
+29:23 question of why it is that way rather
+29:26 than another So when we look in the
+29:30 quantum realm and we find these very
+29:31 specific set of particles and not other
+29:33 particles they've got particular weights
+29:35 and not other
+29:36 weights Why is that the case why not
+29:39 some other set of particles with a
+29:41 different set of properties yeah And and
+29:43 so it really comes down
+29:45 to what do you want science to do m
+29:51 Neils Boore the grand master of quantum
+29:55 physics would say all you want science
+29:58 to do is give you some mathematical
+30:00 explanation for the readouts in your
+30:03 equipment You take a measurement you get
+30:06 a result Can you explain that number you
+30:09 don't need to explain anything about the
+30:11 nature of reality You don't have to tell
+30:14 a narrative of how things are Can you
+30:16 explain those numbers now many of us
+30:19 think that that's a too limited way of
+30:21 looking at science I'm more in the camp
+30:24 that you describe I want to feel like I
+30:27 can tell some coherent story that gives
+30:30 me some understanding of not only how
+30:33 things are but why they are this way Now
+30:37 we've been really good at the how so far
+30:40 because we have the standard model of
+30:43 particle physics that can describe the
+30:45 results that come out of every
+30:47 experiment at the Large Hadron Collider
+30:49 gives us an understanding of the
+30:51 structure of matter Gives us an
+30:53 understanding of how that matter can
+30:55 ultimately coales when you put
+30:56 Einstein's ideas together into stars and
+30:59 galaxies and into planets That's all
+31:02 pretty good But if you then said to me
+31:04 but in that theory you've made certain
+31:07 assumptions Yes you assume there's
+31:08 electrons
+31:10 neutrinos why those particles and not
+31:12 others And that really comes down to the
+31:16 question that Einstein really asked in a
+31:18 way Is there a unique universe that
+31:22 somehow is logically required to be and
+31:26 any deviation from that universe would
+31:29 somehow be logically inconsistent
+31:32 einstein said did God have any choice in
+31:37 creating the universe could God
+31:40 therefore in other words have created
+31:43 the universe differently or was God's
+31:45 choices fixed by some sort of master
+31:49 logic that we've yet to
+31:51 uncover i would love if we find that
+31:53 logic We're nowhere near that As of
+31:56 today is it possible logically and
+31:59 mathematically that there would be a
+32:01 universe that has vastly different
+32:03 particles from the ones that we know
+32:05 about i think so Is it possible that we
+32:07 could be in a universe where it was all
+32:10 Newton no quantum mechanics Is that a
+32:12 logically possible i think it is Now
+32:16 people will argue about this but I don't
+32:19 think that we have any criteria at the
+32:21 moment where we can say "Ah the universe
+32:24 had to have quantum mechanics It had to
+32:25 have general relativity has to have
+32:27 electrons and quirks." There's no other
+32:29 reality that could possibly have been
+32:32 realized We're nowhere near that goal
+32:34 but it would be wonderful to get there
+32:38 And ultimately frankly we'd like to go
+32:40 one step further and answer Linets's
+32:44 question Why is there something rather
+32:47 than nothing nothing seems to be
+32:50 logically possible too And by nothing I
+32:52 don't mean and neither did Linets empty
+32:55 space I mean nothing No space no space
+32:60 no time no nothing that seems to be
+33:02 logically possible and yet clearly we're
+33:06 not in that
+33:07 reality Why not yes that to me is is the
+33:11 foundational question in the sense that
+33:13 it's really kind of naive and simple
+33:15 like a kid can ask it but it's also like
+33:18 the most profound philosophical question
+33:20 that you come back to regardless of how
+33:22 much study you do I am suspicious about
+33:26 the extent to which science can inform a
+33:28 question like that An analogy that I've
+33:31 given before is a bit like discovering a
+33:34 book There are some books on the table
+33:36 uh which are also available on
+33:37 Amazon.com and reputable book sellers
+33:40 everywhere Um but suppose it were a a
+33:43 book of poetry on the table I use the
+33:46 example of a Shakespearean set a a book
+33:49 of his sets and we just discovered this
+33:51 book and we wanted to know what it's
+33:54 doing there What what is it what's it
+33:55 made of right and so we start studying
+33:57 it We start looking inside and some
+33:59 clever person begins to notice that it
+34:02 follows certain patterns At the end of
+34:05 these things called sentences there's
+34:06 always a a period a full stop right and
+34:09 there are these big versions of letters
+34:11 and little versions of letters And you
+34:13 discover this law of capitalization And
+34:16 then the really clever person realizes
+34:18 that when you pronounce these words it
+34:19 follows this this
+34:21 rhythmun dun dun And they call it iiamic
+34:23 pentameter because you know it sounds
+34:25 fancy But they've identified this this
+34:27 law of amic pentameter that everything
+34:29 everything
+34:30 follows And somebody says "Look we're
+34:33 discovering all of these laws of this
+34:35 book Isn't it amazing?" And I'm still
+34:37 left with the question of why is the
+34:40 book there why does it follow those laws
+34:42 why was it written in the first place
+34:43 and for somebody to say to me well we
+34:46 don't know yet but look at all the
+34:48 progress we're making Look at look at
+34:49 how much we've discovered Look at how
+34:51 many laws we've uncovered Surely at some
+34:54 point we'll get there That would be a
+34:56 category error right because you're
+34:58 never going to push the laws of literacy
+34:60 enough to understand the origin of the
+35:02 text And I wonder if there's an analogy
+35:03 here when we look at the laws of physics
+35:06 and we discover the way that planets
+35:08 orbit each other and stuff and we're
+35:09 finding all these wonderful descriptions
+35:10 of how everything works Is it a category
+35:13 error to suggest that if we just push
+35:15 that kind of thinking far enough we'll
+35:17 get the answer to the origin of the
+35:18 universe it could be I don't think it is
+35:23 but I need to qualify it in in two ways
+35:26 Number one I would say what physics is
+35:29 about and how it differs from your
+35:33 analogy with the sonnet is that physics
+35:36 is about
+35:38 finding a
+35:39 description that involves far less input
+35:44 and far less information than the things
+35:47 that comes out of it the ultimate
+35:50 description of what's going on So when
+35:53 we look at quantum phenomenon there is
+35:56 so much stuff that happens in the
+35:58 microscopic world Particles slamming
+36:00 into each other joining together into
+36:03 atoms and into molecules So we can
+36:05 describe the fundamental processes with
+36:08 a few lines of mathematics So that
+36:12 complex amalgamation of processes is
+36:15 reduced to a few symbols on a piece of
+36:18 paper It is ultimately just a
+36:20 description of what's going on But it is
+36:22 a very efficient and effective
+36:25 description And it's so good that when
+36:27 we use the math to calculate for
+36:30 instance magnetic properties of
+36:32 electrons we can make a calculation to
+36:36 14 decimal places and then we do the
+36:39 experiment and it agrees digit by digit
+36:42 by digit to 14 decimal places You can't
+36:45 help but think that that's more than
+36:47 just a mere repackaging or a mere
+36:50 observation about the patterns you're
+36:53 somehow finding something at the heart
+36:56 of the patterns when you can make that
+36:58 kind of a leap from mathematics to
+37:01 predictions But I would say that I do
+37:03 differ from my colleagues in a way
+37:06 that's relevant to the analogy that you
+37:08 give which is the
+37:10 following The sonnet I think we'd all
+37:13 agree is a human construct Y the
+37:16 description that you gave in terms of
+37:18 capital letters small letters
+37:20 periods,amic pentameter those are all
+37:24 human inventions You can use the word
+37:26 that you did use discovering these
+37:29 patterns You are discovering them but
+37:32 the patterns were human inventions
+37:34 And I think that what we're doing in
+37:36 mathematics is really just inventing
+37:40 human inventions a language that's
+37:43 really good at encapsulating the
+37:45 patterns not found in a sonnet but the
+37:47 patterns found in nature And so I don't
+37:51 think that we are discovering laws even
+37:53 though in loose language I often do say
+37:56 that I think we are inventing laws We're
+37:59 inventing the math We're inventing the
+38:01 symbols We're inventing the operations
+38:04 and we are inventing the equations and
+38:06 finding wow these equations are really
+38:10 good at encapsulating those patterns In
+38:12 fact they're so good that we can use the
+38:14 equations to make predictions about
+38:15 patterns we haven't even yet seen And
+38:18 then we do go out and we see them So it
+38:21 is powerful but ultimately I think that
+38:24 what we're doing is inventing things So
+38:27 now back to your key question could that
+38:30 invention ultimately give us answers to
+38:33 these profound philosophical questions
+38:37 and I think that they can point the way
+38:39 because the equations are good at
+38:42 finding the patterns encapsulating the
+38:44 patterns And if you believe that reality
+38:47 for reasons that we don't understand
+38:49 does follow patterns did God infuse
+38:52 those patterns are they somehow written
+38:55 into some ultimate description of a
+38:59 universe that has to be them i don't
+39:01 know But if you believe that there are
+39:03 these patterns and we've invented a
+39:05 language that's really good at talking
+39:07 about those patterns then yeah in
+39:09 principle maybe that language can point
+39:11 us toward the ultimate pattern which may
+39:15 give insight into why there's a universe
+39:16 at all H patterns is a really
+39:19 interesting way of describing it because
+39:21 I wanted to know what your view is on
+39:24 what a law of physics is The these words
+39:28 like laws these words like forces the
+39:31 force of gravity they're thrown around
+39:33 without people stopping to think about
+39:34 what they're actually saying there I
+39:36 mean to say that there is a law of
+39:39 physics that word seems to imply that
+39:42 there is this written rule somewhere
+39:44 that everything is following The
+39:46 question that got me thinking about this
+39:48 when I was younger was to ask like do
+39:50 things fall to the ground because of the
+39:52 law of gravity or do we have the law of
+39:54 gravity because things fall to the
+39:56 ground and it seems more sensible to me
+39:58 to suggest that like like you indicate
+40:00 we are essentially describing patterns
+40:03 that we see And the great observation of
+40:05 David Hume was to was to realize that
+40:08 that is just something that we observe
+40:10 and describe He he looked everywhere he
+40:13 could for the causal connection between
+40:16 hitting a billyard ball and that
+40:17 billiard ball going forward And he
+40:19 thought there's nothing in principle
+40:20 logically like preventing me hitting
+40:23 that billyard ball and it flying upwards
+40:26 instead of forwards except for this
+40:28 thing that we observe called you
+40:30 causation But he looked for it
+40:32 everywhere and he just couldn't find it
+40:34 Yeah But he said I still believe in it
+40:36 though I still believe in causation I
+40:38 just have absolutely no way to justify
+40:42 its existence And the problem for Hume
+40:44 is that the way that Bertin Russell put
+40:45 it was uh in this problem of induction
+40:48 was to say like if you were a chicken
+40:50 and every single day the farmer comes in
+40:53 and throws your seed right and and so
+40:55 the chicken develops this this
+40:58 connection between the farmer coming in
+41:00 and the food being given in the same way
+41:02 that every time I've seen an object be
+41:04 dropped it's fallen to the ground So I
+41:05 developed this idea of a causal
+41:07 connection just because every time I've
+41:08 seen it that's what's happened And
+41:09 Russell's like "Well the chicken will in
+41:12 the same way develop a causal connection
+41:14 between the farmer coming in and the
+41:15 food being given." But until the hatchet
+41:18 comes quite right until the hatchet
+41:20 comes and the chicken's dead and we
+41:22 realized that the chicken was just
+41:23 identifying patterns but there was no
+41:25 actual law It feels ridiculous to
+41:27 suggest that the laws of physics could
+41:29 work in the same way because it's
+41:31 happened so many times Yeah you know
+41:34 every single time we've ever seen this
+41:35 kind of stuff But like is there this
+41:38 thing called a law that that makes sure
+41:40 it happens or are we just describing
+41:41 patterns and and look so I would say
+41:44 number one
+41:46 when I was younger if we had this
+41:48 conversation when I was your tender age
+41:52 I would sit here and say "Yeah there are
+41:54 laws of physics." Yes When we write down
+41:57 these mathematical laws they are why the
+42:00 universe behaves the way it does And
+42:03 that was so naive as I look back at my
+42:07 25year-old self thinking that way
+42:10 because number one obviously laws that
+42:13 we write down change over time So so
+42:16 number one we have to recognize it's all
+42:18 provisionals but even more deeply in the
+42:21 end of the day what we humans do we are
+42:25 able to access a tiny part of reality We
+42:29 find patterns in the part that we have
+42:31 access to and we invent this language
+42:34 that does a really good job at
+42:35 describing it And that's really I think
+42:37 all that there is to it But having said
+42:41 that I'm not precisely sure the language
+42:44 and I always struggle at this point to
+42:46 find the right words I do think that
+42:50 within the fundamental architecture of
+42:53 reality there are
+42:56 certain inbuilt patterns that do guide
+43:01 the dynamics that do guide the billyard
+43:04 ball as it slams into another billyard
+43:06 ball I don't think it's Newton's laws I
+43:08 don't think it's the laws of quantum
+43:09 physics I don't think it's general
+43:10 relativity But I do within the
+43:12 architecture of reality feel that there
+43:15 is something that requires this kind of
+43:18 regularity Now is that a law i'm not
+43:21 sure if that's the right language any
+43:23 longer because the universe just does
+43:25 what it does Particles move and bill
+43:28 your balls slam into and they don't care
+43:30 about quantum mechanics or the laws of
+43:32 physics as we articulate them They're
+43:35 just doing their business and they've
+43:37 been doing that business long before we
+43:39 existed and they will be doing their
+43:41 business long after we are gone And so
+43:44 in that sense the universe just is and
+43:47 just does and just evolves But I do
+43:49 think there's a fundamental regularity
+43:52 that guides how things progress Do we
+43:55 have access to that regularity is math
+43:58 the right language for articulating that
+44:02 regularity i have absolutely no idea and
+44:05 I don't have any reason to believe that
+44:07 it is I do know that it does a really
+44:09 good job at approximating those
+44:12 regularities which is why we can make
+44:14 predictions that so closely match
+44:16 observation But does that mean that
+44:18 we've actually uncovered the true
+44:21 fundamental regularities of reality that
+44:24 to me would be a miracle Would that be
+44:26 something material in your view i mean
+44:28 you you I tend to agree with you that
+44:30 there is something about the nature of
+44:32 reality that I don't think gravity is
+44:35 going to switch off in 5 seconds But
+44:37 then you know let's not tempt the gods I
+44:39 do think that there's something pulling
+44:43 this all together But if we're talking
+44:45 about the thing that governs the
+44:46 interactions of all material objects
+44:48 essentially does that governing thing
+44:50 itself have to step outside of
+44:52 materiality and we get into this realm
+44:54 which physicists often dare not tread of
+44:57 of talking about immaterial influence on
+45:00 material things yeah Look well two three
+45:04 quick things Number one we've looked at
+45:06 the universe by using powerful
+45:10 telescopes way back
+45:12 to few hundred,000 years after the big
+45:15 bang So say we've looked at it through a
+45:17 13 billion year
+45:18 span That may seem like a long period of
+45:21 time but we can extrapolate into the far
+45:25 future and there's every reason to
+45:26 believe that this cosmos of ours will
+45:28 exist in one form or another for 10 to
+45:30 the hundred years if not longer into the
+45:32 future Which means that we could be like
+45:35 the chicken and for 13 billion years
+45:38 we've seen the regularity but maybe you
+45:40 know 10 to the hundred years from now
+45:44 the hatchet comes and we realize oh we
+45:47 were just confused by the patterns that
+45:49 held true for such a long period of time
+45:51 So is it possible that gravity will
+45:53 switch off probably not in 5 seconds but
+45:56 we're looking at a tiny region of time
+45:59 compared to the entirety that might
+46:00 happen Number one Number two do we step
+46:03 outside of
+46:05 materiality look I'm open to that idea I
+46:09 would be thrilled if that were the
+46:13 ultimate answer How remarkable if there
+46:17 is some grand non-physical entity that
+46:20 is responsible for the universe and the
+46:22 fact that we're here I would love to
+46:24 learn about that and it would be
+46:26 enormously exciting The problem as a
+46:29 physicist is I can't go any further than
+46:32 that excitement I can't analyze it I
+46:35 can't investigate it I can't write down
+46:37 mathematical equations By definition it
+46:39 stands outside the physical the thing
+46:40 that a physicist focuses upon So I don't
+46:43 find it that interesting I don't say it
+46:46 is impossible It just doesn't occupy my
+46:50 attention when I can't go any further in
+46:54 the analysis And so my perspective has
+46:56 been to say sure maybe but now I'm put
+46:59 that to the side and see how far I can
+47:02 get just focusing on the physical just
+47:05 focusing on the tools that we have
+47:07 developed and the fact that we've been
+47:09 able to go as far as we've been able is
+47:12 is deeply thrilling M one of the most
+47:17 celebrated descriptions of the universe
+47:19 that has uh come
+47:22 about of late and by of late I mean in
+47:25 the history of the scientific enterprise
+47:27 is this surprising fact that so much of
+47:30 what governs our
+47:32 universe the the strength of various
+47:34 laws for example the mass of various
+47:37 particles are so finely tuned that some
+47:41 theorists do suggest the multiverse we
+47:43 were talking about earlier to the extent
+47:45 that like the only way to explain the
+47:47 fact that it could have been so many
+47:48 ways and is this way is that this is
+47:51 just one of many
+47:52 universes Another suggestion for that
+47:54 from that is to extrapolate and say well
+47:57 there must be some kind of necessary
+47:60 reason why these laws are the way they
+48:01 are That's the kind of thing that the
+48:03 physicist is looking for The third
+48:05 option is this sort of supernatural
+48:07 intelligence Many people think that I
+48:09 understand what you're saying that the
+48:11 physicists can't go beyond the physical
+48:13 but we can like extrapolate explanation
+48:16 from the physical data right like in the
+48:18 same way that if I were to look at some
+48:20 evidence around me if we all left this
+48:22 room and somebody came in and saw that
+48:24 there were some glasses on the table and
+48:25 saw that there was a book placed kind of
+48:27 in the middle of the table and all this
+48:29 kind of stuff They didn't see any human
+48:31 beings They didn't see any agents but
+48:33 they can just extrapolate from the
+48:35 arrangement of of the descriptions that
+48:37 they see of of the way the room is There
+48:39 must have been somebody there In the
+48:41 same way the physicists might not be
+48:42 able to sort of look beyond the material
+48:44 But can they look at the strength of the
+48:47 of the strong and weak nuclear forces
+48:49 and the fact that if gravity was a tiny
+48:50 little bit stronger the universe would
+48:52 have collapsed in on itself and a bit
+48:53 weaker and everything would have flown
+48:55 apart and think I can't see any evidence
+48:58 of design directly but I can extrapolate
+49:00 from that that there must be some kind
+49:01 of intelligence behind the universe Yeah
+49:03 So bear in mind number
+49:06 one often people do say that if you
+49:09 change the value of the physical
+49:11 parameters just a little bit the
+49:13 universe as we know it goes away The
+49:17 problem with that is we can only do that
+49:18 analysis if you change the parameters by
+49:21 a little bit If you allow the parameters
+49:25 to change by a lot of bit not a little
+49:27 bit and you allow many of the parameters
+49:29 to change simultaneously nobody can
+49:31 really say what that cosmos would be
+49:34 like And so it's possible that there are
+49:37 patches in parameter space where you
+49:40 would get different kinds of universes
+49:43 that perhaps would give rise to
+49:45 different living systems And then each
+49:48 living system in its universe looks
+49:50 around and says "Wow this universe is so
+49:53 special It must be that there's some
+49:56 kind of you know grand design that got
+49:57 us here." But they're all saying that in
+49:59 their own parameter space because
+50:01 they're all making this mistake of only
+50:03 looking in a small neighborhood around
+50:06 the point in parameter space where they
+50:07 exist So that's point number one And so
+50:10 part of it is we just don't really know
+50:12 enough to if we turned up gravity a
+50:15 little bit and left everything else the
+50:16 same I agree But if we turned it up like
+50:20 to 11 that that somehow right that might
+50:25 Yeah But what if you simultaneously turn
+50:28 up the repulsive force that might come
+50:31 from a universe with charge i mean you
+50:34 it's a highly complex problem and there
+50:36 might be something about turning up
+50:38 gravity which necessarily also
+50:41 correlatively turns up this repulsive
+50:43 conceivably So so it's just a fairly
+50:46 complicated problem that you don't want
+50:48 to dismiss too quickly by saying it all
+50:51 goes away unless it's precisely as we've
+50:53 seen But it is the motivation for the
+50:56 multiverse Another motivation because
+50:60 one explanation simply would be there
+51:02 are many many many many universes in
+51:05 which the parameters of all different
+51:08 values across those many
+51:10 universes and in most of those universes
+51:13 the conditions are not amendable to
+51:15 living systems like human beings But in
+51:18 one of those or a small number of those
+51:20 universes the conditions are amendable
+51:22 And of course we're in one of those
+51:24 universes because we could not exist in
+51:27 any of the others because the conditions
+51:28 are not correct You know the analogy is
+51:31 if you go into a clothing shop and you
+51:35 want to buy a sports coat and you say "I
+51:38 want to buy a sports coat." And you see
+51:40 only one on the rack And the person
+51:42 brings it over and it fits you perfectly
+51:44 you're like "Wow that is so fortunate
+51:47 that it was just the right size to fit
+51:49 me." M but if you go into an actual
+51:52 clothing shop when there's hundreds of
+51:55 different sports jackets on the rock of
+51:57 all different sizes when the person
+52:00 comes and brings you one that fits
+52:02 you're not surprised Of course there's
+52:04 one among the many that works for you
+52:06 And so if you have many jackets it's
+52:09 obvious why one will fit If you have
+52:11 many universes it's also pretty obvious
+52:14 why one will fit the conditions
+52:16 necessary to our existence And so it is
+52:19 a natural way of avoiding the problem
+52:23 that you're making reference to The
+52:26 specialness of this universe goes away
+52:28 if it's one of a grand collection of
+52:30 possibilities Yeah If I went into a shop
+52:33 and they had a sports jacket in just my
+52:36 size I'd feel pretty pretty special I'd
+52:38 feel pretty chuffed about that If I
+52:40 discovered that actually they'd gone
+52:42 into the back and picked from a billion
+52:44 different possible suit jacket sizes uh
+52:47 I'd be a little bit I'd be a little
+52:49 disappointed by that I'd be kind of
+52:51 upset Do you feel a bit nihilistic at
+52:54 the prospect that that it seems amazing
+52:57 everything is perfectly tuned for us and
+52:60 that actually maybe not Maybe we just
+53:02 happen to be in one of billions of
+53:03 universes I guess that's not where my
+53:05 selfworth comes from You know I sort of
+53:08 don't look at the specialness of the
+53:10 universe or my place within that special
+53:12 universe
+53:13 Rather what fires me up is the fact that
+53:19 a collection of particles called a human
+53:22 brain which is all that we are
+53:24 collections of particles can coalesce
+53:26 through an evolutionary dynamics to
+53:30 yield a structure that can think and
+53:33 feel and love and emote and create and
+53:36 illuminate and figure out quantum
+53:38 mechanics and figure out general
+53:40 relativity and come up with the idea of
+53:42 a multi verse and describe black holes
+53:44 and predict the magnetic moment of the
+53:47 electron And that to me is the amazing
+53:49 thing that matter not infused with any
+53:52 divine force not in my view structured
+53:57 by some divine plan can through the bare
+54:00 laws of physics come together and do
+54:03 what it does
+54:06 It's it's definitely marvelous
+54:10 it I I do think it sort of doesn't offer
+54:13 consolation in the way that that feeling
+54:16 special does because I feel like
+54:17 oftentimes people conflate the idea of
+54:20 something being amazing with something
+54:22 being like meaningful You know people
+54:24 people like to say things like "Okay I I
+54:26 I believe that there is just the
+54:28 universe but when I look at a beautiful
+54:29 night sky I'm filled with awe and
+54:31 wonder." And that might be true but it
+54:33 doesn't fill you with that sense of of
+54:36 belonging in the same way If anything
+54:37 like one person looks at the universe
+54:40 and thinks it's so grand and so
+54:41 brilliant that man I slot right into
+54:43 this and they find their sense of
+54:44 belonging Whereas some people look at
+54:45 the universe they look at the same thing
+54:46 and they say gosh this is also also big
+54:49 and I'm just in tiny little random
+54:52 neighborhood like oh I I I have no place
+54:53 here I'm just randomly here Like which
+54:56 of those do you identify with more when
+54:59 you look at the universe they're both
+55:01 true right right i mean I fundamentally
+55:04 believe that there is no cosmic purpose
+55:09 There is no cosmic meaning I do believe
+55:12 and I'm open as we discussed to other
+55:15 ideas ultimately replacing this
+55:17 perspective if it made sense and if
+55:19 there was evidence but I fundamentally
+55:20 believe that we are the product of
+55:24 physical processes and that we are
+55:26 physical structures and that these
+55:28 physical structures just come together
+55:30 for a brief moment of time and then we
+55:33 disperse and for that brief moment of
+55:35 time can I feel alone and nihilistic yes
+55:39 can I feel connected and thrilled yes
+55:43 Can I hold both of those ideas in mind
+55:45 simultaneously yes And I do And so yes
+55:49 at times do I feel completely at sea in
+55:53 this gigantic cosmos crawling around on
+55:56 this nondescript planet going around
+55:59 this ordinary star in the outskirts of
+56:02 the Milky Way galaxy yes Can that make
+56:05 you feel small and lacking some sense of
+56:08 purpose for sure But at the same time
+56:11 when I think about the fact that we've
+56:13 developed these mathematical ideas that
+56:16 describe that reality it gives me a
+56:19 feeling of connection to that reality I
+56:22 feel closer to the universe when I have
+56:24 a deep description that at least
+56:27 approximates some of the processes that
+56:29 take place General relativity makes me
+56:31 feel closer to the cosmos as does
+56:33 quantum mechanics And so yes alone and
+56:36 yes connected all together in one human
+56:39 mind that somehow is able to grapple
+56:41 with these
+56:43 ideas this multiverse situation that we
+56:47 were talking about
+56:48 before do we have good reason to think
+56:50 that it might be the case outside of a
+56:52 its possibility and b the way that it
+56:55 kind of conveniently does away with the
+56:57 trouble of things like fine-tuning or
+56:59 the the trillions of ways that string
+57:02 theory dimensions could be folded in on
+57:04 themselves because like you imagined
+57:08 walking into a jacket shop and finding
+57:09 one that was perfect and I'm imagining
+57:11 walking into a jacket shop and and and
+57:13 and it's just like a tiny little little
+57:15 store you somewhere in somewhere in New
+57:17 York on like the second floor right and
+57:19 it just has a few jackets and and a few
+57:21 pairs of trousers and I try on this
+57:22 jacket and it is like perfect I mean
+57:26 it's the exact shade of blue that I was
+57:28 looking for I send it to my camera guy
+57:30 and he does the little hex code and he's
+57:32 like "Man this is like exactly the right
+57:34 color temperature The the sleeves are
+57:36 the perfect length like uncannily
+57:38 perfect Like everything is great." It's
+57:40 even got like a name tag from the
+57:42 previous owner that says Alex on it just
+57:45 by pure And I think man this is
+57:47 absolutely unbelievable I'm saying to my
+57:49 friend "This is unbelievable I can't
+57:50 believe every single time I look at it
+57:52 something new that just just
+57:53 unfathomably coincidental." And the
+57:56 friend says "Okay this is amazing I what
+57:59 must have
+58:00 happened is that there are actually like
+58:03 an infinite number of jackets that are
+58:05 sort of sat in the back and every time
+58:08 somebody comes into the shop they sort
+58:10 of bring one out by chance and hope that
+58:13 it's a match And I suppose we must all
+58:15 sort of have sort of existed in New York
+58:17 for an infinite amount of time so that
+58:19 this guarantees that at least once this
+58:20 goes right And of course you're going to
+58:22 be the one that gets it right because
+58:24 otherwise you wouldn't be having this
+58:25 amazing experience
+58:27 Compared to just what I naively
+58:29 experience which is like one room and a
+58:31 jacket which fits perfectly I would I
+58:34 would basically ask that friend to give
+58:37 me more reason outside of the
+58:39 convenience of explaining this
+58:40 coincidence to believe in that infinite
+58:43 set of jackets to to think that it's
+58:45 actually true right i I mean and then in
+58:47 in the end of the day that's really what
+58:50 we do We try to explain the confluence
+58:54 of data that seems to lock together with
+58:58 such a gratifying and impressive
+59:01 cohesion just like your perfect jacket
+59:04 you know inscribed in just the right way
+59:06 And this is that jacket It's beautiful I
+59:09 I agree with our cameraman And and so
+59:11 what we try to do is to write down
+59:13 equations that will give us some insight
+59:15 into how it could be that there's a
+59:18 process that starts in the big bang and
+59:21 results in the things that we are now
+59:24 experiencing Now are there certain
+59:26 things that might be pure coincidence
+59:29 like could it be pure coincidence that
+59:31 the gravitational constant and the
+59:33 electromagnetic force have just the
+59:35 right values to yield the qualities that
+59:38 allow us to exist it could be
+59:41 coincidental It could be really
+59:44 causitative It could have been had the
+59:46 values been different they would have
+59:47 caused something else and that something
+59:50 else if it had consciousness might be in
+59:53 the same quandry saying why were the
+59:56 constants just the right value to allow
+59:58 me to exist and yet they'd be different
+59:60 than the constants that we have And so
+60:02 you have to be careful about seeing
+60:06 things and being impressed at their
+60:10 uniqueness when they might not be unique
+60:13 and impressed at how they are designed
+60:16 when they may not be designed They
+60:18 simply may be what they are and you are
+60:21 the result of those features They
+60:24 weren't set in order to get you to exist
+60:28 They were set maybe by some random
+60:30 process and you are the output of that
+60:32 random process What we do as conscious
+60:35 beings we tend to look at our
+60:37 environment and try to explain it in
+60:41 terms that somehow give us a a narrative
+60:45 a story And we love stories that somehow
+60:48 have a purpose But these stories may not
+60:51 have a purpose It may just be random
+60:53 events with random numbers that yield
+60:56 based on their structure certain outputs
+60:59 And we may be the output of those random
+61:01 qualities So at risk of belaboring the
+61:04 point because we're speaking quite
+61:06 generally here in particular the
+61:08 multiverse like I say outside of
+61:11 this convenient explanation of of
+61:14 certain phenomena but not in such a way
+61:17 that it's like you know a predictable
+61:20 testable hypothesis just this makes some
+61:22 sense of of what we see do we have good
+61:24 evidence outside of that for the
+61:26 multiverse when I spoke to David Deutsch
+61:28 he was firmly convinced I mean he said
+61:30 he doesn't believe in the multiverse he
+61:32 knows that the multiverse exists from
+61:35 sort of a quantum perspective He's a
+61:36 many worlds interpretation type guy So
+61:38 very particular kind of uh of multiverse
+61:41 but he just thought that we had this
+61:43 evidence It wasn't just a way of
+61:45 explaining difficult quandries Do you
+61:48 believe in the same way that we have
+61:50 like evidence for the multiverse or do
+61:52 you tend to just treat it as a potential
+61:54 hypothesis to to do away with these
+61:56 problems yeah I I absolutely do not
+61:59 think we have evidence for the
+62:00 multiverse and I believe I understand
+62:04 David Deutsche's perspective I I
+62:07 actually never met him but I have read
+62:09 his books And of course I'm deeply
+62:12 familiar with the many worlds approach
+62:13 to quantum mechanics And it is a
+62:17 compelling mathematical framework that
+62:20 we humans invented to describe these
+62:24 strange processes in the microscopic
+62:27 realm Is it the only description of the
+62:31 microscopic realm that we have no There
+62:34 are other ways of talking about the
+62:37 phenomenon of quantum mechanics where
+62:39 you don't mention the word multiverse
+62:42 You don't mention many worlds And as of
+62:45 today we don't know of a way to
+62:48 experimentally distinguish between these
+62:51 different approaches So I think it's far
+62:53 too early to say that the many worlds
+62:57 the multiverse version of quantum
+62:59 mechanics is correct And that's only one
+63:01 flavor of multiverse There are many ways
+63:05 in which you come upon this idea of many
+63:08 universes You come upon it
+63:10 cosmologically from inflationary
+63:12 cosmology with multiple big bangs You
+63:15 come upon it in string theory with many
+63:18 different possible shapes for the extra
+63:20 dimensions You come upon also within
+63:22 string theory with something called
+63:23 brain universes So there are many
+63:25 flavors of multiverse that science has
+63:28 bumped into Absolutely none of them are
+63:32 at a level of understanding where we can
+63:35 say yes there is evidence for the
+63:38 multiverse No there is mathematical
+63:42 motivation based upon our attempts to
+63:45 understand things in the external world
+63:47 but it is mathematical motivation for
+63:50 thinking about the possibility of a
+63:51 multiverse Yes I keep it in my toolkit
+63:54 as an interesting possibility that you
+63:57 break out when you don't have any other
+63:60 way of describing what it is that you're
+64:02 seeing Yeah Is that similar to how
+64:04 string theory works though like I mean
+64:06 we were talking before about how string
+64:08 theory is mathematically elegant and
+64:11 makes sense of some phenomena that we
+64:13 see like the graviton and this kind of
+64:14 stuff but we don't have any experimental
+64:16 confirmation the way that you've just
+64:18 described the multiverse is something
+64:19 you keep it in the back pocket but I
+64:22 don't think we have good evidence to
+64:23 believe it's true
+64:25 Yeah Are these sort of similar i would
+64:27 say it depends which pocket theory is in
+64:31 So yes multiverse back pocket String
+64:34 theory is like right here right and the
+64:36 reason and the reason for that is to put
+64:39 quantum mechanics and general relativity
+64:41 together We know we've got to do that
+64:43 and string theory does that You know the
+64:45 idea that general relativity as we
+64:47 discussed emerges from string theory
+64:49 It's a real powerful way of thinking
+64:52 about why this theory might be the way
+64:55 to put these two together It may be that
+64:57 general relativity is intrinsically
+64:59 within string theory from the get-go And
+65:02 there's another story just like that for
+65:04 quantum physics within string theory So
+65:07 that's why it's here But yes I agree
+65:09 That's your jacket pocket not the half
+65:11 That's wrong That's the correct size Yes
+65:13 I did me in the jack of pocket Until you
+65:16 have experimental evidence for
+65:17 mathematical ideas they do need to be
+65:20 viewed as provisional But I think I
+65:23 would put string theory one step closer
+65:26 to connection with physics than the
+65:28 general idea of a multiverse 25 years
+65:32 ago the elegant universe is published
+65:34 introducing a lot of people uh for the
+65:37 first time to string theory How has your
+65:40 confidence in string theory fluctuated
+65:43 since then yeah So look 25 years ago I
+65:49 would have thought that the conversation
+65:52 we're having right now would focus upon
+65:54 all the experiments that have been done
+65:57 that connected to some of the
+65:60 predictions of string theory Predictions
+66:02 about God That's right That's right you
+66:04 know predictions about super symmetric
+66:06 particles and things like that That
+66:08 didn't happen And yes is that a
+66:11 disappointment i I'd have to say
+66:13 honestly it is a
+66:14 disappointment But on the mathematical
+66:17 front 25 years ago if you ask me will we
+66:21 understand the fundamental exact
+66:24 equations of string theory in any domain
+66:26 i say no We'll only still have
+66:27 approximate equations We have exact
+66:29 equations in particular domains right
+66:31 now Will we have a way of talking about
+66:35 space and time in a radically new
+66:37 language than Einstein's general theory
+66:40 of relativity i said well it' be nice
+66:41 but I I don't think we have that
+66:43 language now that's emerging from these
+66:45 studies And I could go on and on with
+66:47 the mathematical progress that exceeds
+66:51 anything I would have imagined 25 years
+66:53 ago So that has certainly increased my
+66:56 confidence in the capacity of these
+66:58 ideas to really give us a rich
+67:00 description of reality But again I would
+67:03 have hoped that we would have the
+67:05 observations that would at least
+67:07 tentatively connect with some of the
+67:09 ideas of string theory and that we've
+67:11 not been able to do It was going to
+67:13 cancel out such that roughly speaking
+67:15 you're about as confident as you were
+67:17 cuz it sort of sounds like string theory
+67:19 is awesome and great but like yeah it
+67:22 could be could be false It's as you say
+67:24 it's sort of in the jacket pocket Yeah
+67:26 Is that where it was 25 years ago as
+67:27 well well again I think part of it is
+67:30 the psychological question of a youthful
+67:33 physicist Yeah Looking at the world as
+67:36 you know this
+67:37 spectacular landscape of discovery
+67:40 versus a somewhat I'd like to think more
+67:42 mature perspective on reality which is a
+67:45 little bit more subdued And so yes when
+67:48 you put those together I would say the
+67:50 level of confidence is fairly close but
+67:54 that's an amazing thing in its own right
+67:56 The fact that these string theoretic
+67:59 ideas have been subjected to an
+68:01 additional quarter century of
+68:04 mathematical investigation by some of
+68:06 the greatest minds that this planet has
+68:08 ever produced And I'm not putting myself
+68:09 in that category I'm talking about
+68:11 string theorists as a community and the
+68:13 theory have stood up to these
+68:16 mathematical assaults and has yielded
+68:19 riches that are completely unexpected
+68:21 and enormously gratifying That that is
+68:25 amazing That is not something that's
+68:28 minor That is a major step in the
+68:30 direction of developing an idea that may
+68:33 well be the correct description of
+68:34 reality And if we wake up tomorrow and
+68:36 discover that this is the correct
+68:38 description of reality somebody has
+68:39 somehow experimentally confirmed string
+68:43 theory what does that change does it
+68:46 change much outside of just our
+68:50 understanding hey isn't that interesting
+68:52 does it change the way that I live my
+68:53 life does it change the the clothes that
+68:55 I wear or what time of I I get out of
+68:57 bed in the morning or anything like that
+68:58 it's always difficult to answer a
+69:00 question like that in real time But I
+69:03 think quantum mechanics gives us a
+69:05 beautiful case study where we can look
+69:06 at it over a longer stretch of time
+69:09 because if you were talking to Erin
+69:10 Schroinger Neil's Boore right now it was
+69:14 19 20 something 23 24 you say look if
+69:19 this quantum mechanics thing pans out
+69:22 and it really is experimentally
+69:24 confirmed will that change my life will
+69:27 it change when I get up in the morning i
+69:29 think they would have said "Look we're
+69:31 talking about atoms and particles and if
+69:34 that isn't the kind of thing that
+69:37 determines how you live your life then
+69:39 probably quantum mechanics will not have
+69:41 a big impact on you." And yet here we
+69:44 are 100red years later And because of
+69:47 quantum mechanics we have been able to
+69:50 control matter harness matter on
+69:53 microscopic scales yielding the
+69:54 integrated circuit yielding all manner
+69:58 of technological progress The fact that
+70:00 you have a cell phone the fact that you
+70:02 have a personal computer the fact that
+70:04 you have any kind of technological
+70:06 device is because of the work of quantum
+70:09 mechanics So has it affected how you get
+70:12 up in the morning yeah Now when you say
+70:14 hey Siri 8:00 wakeup call that is
+70:17 because of quantum mechanics
+70:18 fundamentally speaking and so could the
+70:21 same thing happen with string theory if
+70:24 it's correct will we be able to harness
+70:26 matter in new ways and do things that I
+70:30 can't even imagine today yeah I can
+70:32 imagine that possibility yeah that's
+70:33 interesting people often probably
+70:36 neglect to think about that when it
+70:37 comes to the utility of of physics I
+70:39 mean there's a big debate about how many
+70:41 resources the government should put into
+70:43 space travel or science or whatever And
+70:46 there is quite a myopic view that this
+70:49 is not worth this particular project
+70:51 It's not worth this amount of time or
+70:53 money to work out if you know this this
+70:56 book is made of strings or particles Who
+70:59 cares forgetting that there are always
+71:01 unforeseen consequences of these
+71:03 physical theories Yeah absolutely You
+71:06 know there's uh some calculations that
+71:08 suggest and it's pretty obvious if you
+71:10 think about it you know a significant
+71:12 fraction of the gross national product
+71:16 of any
+71:19 major nation on this planet can be
+71:22 traced back to quantum physics Mhm And
+71:26 so I don't like that as the main
+71:28 motivation for doing science because it
+71:30 then suggests that we should just do
+71:32 applied physics applied because it seems
+71:34 like that's the justification and the
+71:36 motivation Whereas even with quantum
+71:38 mechanics it was not applied physics
+71:40 when people were developing Schroinger's
+71:42 equation or Heisenberg's uncertainty
+71:44 principle It's the fundamental ideas
+71:47 which later generations can take over
+71:50 and then apply So you don't start
+71:53 applying you start fundamental But yeah
+71:55 can these ideas change how we live
+71:58 absolutely I wanted to ask you in the
+72:00 time
+72:02 remaining a a question which mystifies
+72:04 me which is what on earth the time
+72:07 remaining
+72:09 means I I listen to people talk about
+72:14 the discovery of particles and forces
+72:17 and that somehow forces can express
+72:20 themselves at fundamental levels as
+72:22 particles That to me seems kind of
+72:24 strange that gravity can be a kind of
+72:25 particle But okay I believe
+72:28 you
+72:29 Time I just don't even know what it is I
+72:32 don't know if it's a if it's a force a
+72:35 particle a substance I don't know if it
+72:37 exists
+72:39 when you think of time when you're
+72:40 describing time to somebody just crudely
+72:43 speaking what what image is in your head
+72:45 like how are you conceiving of this
+72:47 thing called time so the first thing I
+72:49 should say is I also do not know what
+72:52 time is and I don't think any of us do
+72:56 is it something that we humans impose on
+72:58 the external world just to organize our
+73:00 perceptions into some coherent narrative
+73:03 is time more than that is it
+73:05 fundamentally stitched into the fabric
+73:07 of reality ity Are there realms of
+73:10 reality where there is no conception of
+73:12 time at all and it just exists in a way
+73:15 that doesn't change in the manner that
+73:17 we usually think of when we're talking
+73:19 about dynamical changes through time i I
+73:22 don't know and nobody does But how then
+73:24 do I think about it pretty much the way
+73:26 you think about it I think of time as
+73:29 something that allows for change Time is
+73:33 the environment within which things can
+73:37 differ at one moment versus another And
+73:40 in fact the way we note that time has
+73:43 evolved is by comparing things Whether
+73:47 it's the second hand on a clock the
+73:49 readout on your iPhone or the color of
+73:52 my hair 25 years later compared to what
+73:55 it was when I was much younger That's
+73:57 how we mark the passage of time by
+73:60 virtue of change But is time more than
+74:04 that i don't know Well most physical
+74:07 mathematical calculations work in both
+74:09 directions right like if you take almost
+74:11 anything and just reverse it as if time
+74:13 was going backwards It all works out the
+74:15 same So it's very difficult to discover
+74:17 why there is this arrow of time that
+74:19 that takes us from from past to future
+74:22 And it feels like it does take us there
+74:24 I can get up and walk forward or back or
+74:27 I can stand still but I can't do that
+74:30 with time Even though I'm told time is a
+74:32 dimension a bit like those other spaces
+74:34 which I can I can manipulate I I find it
+74:38 impossible to to wrap my head around But
+74:40 also when somebody says maybe time is
+74:42 just an illusion or something we impose
+74:45 into the world that doesn't make sense
+74:46 to me either because I think well to
+74:48 impose something is something that's
+74:49 turned through time you know and
+74:53 so I don't I don't think I recognize
+74:56 that possibility The idea that that that
+74:58 time is some kind of human construction
+75:02 Is is that what you were sort of
+75:03 suggesting it it it could well be or it
+75:06 could be deeper But the problems that
+75:08 you're referring to are real ones and we
+75:11 have made progress on at least some of
+75:13 them In terms of the arrow of time why
+75:16 does it seem to have a direction when as
+75:18 you rightly say the laws of physics as
+75:20 currently constructed they're agnostic
+75:24 between what we call forward in time and
+75:25 backward in time they work in both
+75:27 directions equally well And we believe
+75:29 it has to do with entropy this idea of
+75:32 disorder And we believe that entropy has
+75:35 this tendency to increase over time And
+75:38 we furthermore anticipate we can't prove
+75:42 that the big bang was a state of
+75:44 incredibly low entropy very high order
+75:48 And we have been living through the
+75:49 degradation of that order for the last
+75:52 13 billion years So why when you drop a
+75:56 glass and it
+75:57 shatters doesn't it unshatter we believe
+76:01 because the glass is carrying forward
+76:03 that drive toward greater disorder it
+76:06 could unshhatter at least in principle
+76:09 It's just so incredibly unlikely because
+76:12 to go from disorder to order is a very
+76:15 difficult maneuver To go from order to
+76:17 disorder that's very simple Just drop
+76:20 the glass and it shatters And so that at
+76:22 least gives us some insight into why
+76:24 there is this direction to time But if
+76:27 you step back and say but what about
+76:29 time itself like why is there this thing
+76:32 called time and why is it different from
+76:34 space why can we so freely navigate
+76:36 through space left and right back it
+76:38 doesn't matter There's no constraint Why
+76:40 is there this constraint on time i can't
+76:44 really give you an answer to that
+76:45 question And you can conceive of space
+76:47 but you can't conceive of time in the
+76:49 same way It does make me wonder if there
+76:50 is a similar kind of like fine-tuning
+76:53 problem for time Of course time ticks
+76:57 differently if you're near a mass of
+76:59 gravity or if you're traveling close to
+77:00 the speed of light but presumably
+77:03 there's some kind of like ratio by which
+77:06 as the mass increases of a gravitational
+77:08 object the time dilation increases Yeah
+77:11 we have a formula for it Presumably that
+77:13 is something that you could also like
+77:15 tweak in principle where as the mass
+77:17 increases you know the time ticks
+77:20 proportionally even more slowly than it
+77:22 actually does right now And so 1 - 2 GM
+77:24 over C ^2 R You I mean that's the we
+77:26 actually have a formula for words out of
+77:28 my mouth That's right Uh and and so I
+77:32 suppose what I'm just wondering here is
+77:33 when we talk about this like fine-tuning
+77:35 argument for God's existence or like
+77:37 multiverse type stuff is time one of
+77:39 those qualities because it seems to me
+77:41 like unnatural to think of it in that
+77:42 way because I think of time almost as if
+77:45 almost as the space in which all of
+77:47 that's happening But is there also this
+77:49 finetuning of the way that time works i
+77:53 think that gets closer to a
+77:56 psychological question as opposed to a
+77:59 scientific one in the sense of the
+78:02 fundamental nature of time I think we
+78:04 beings have these structures and these
+78:06 structures in our heads change on
+78:09 certain time scales and those time
+78:11 scales evolved and so were the mass of
+78:15 Earth very different or if we were on
+78:18 Miller's planet orbiting gargantua in a
+78:21 black you know would it be perhaps that
+78:23 we would evolve differently and our
+78:25 sense of time would be different sure I
+78:27 mean I mean to say that like the the
+78:30 fact that if I so say say I
+78:33 uh doubled say I'm orbiting a black hole
+78:36 and I I then double the mass of the
+78:37 black hole there will be some proportion
+78:40 by which the time dilation increases I'm
+78:42 imagining a world in which for that the
+78:44 laws of physics are tweaked such that
+78:45 when I double it time dilates in the
+78:49 opposite direction let's say let's say
+78:50 that when you go towards a a black hole
+78:52 instead of time slowing down it speeds
+78:54 up like I don't know if there's anything
+78:57 in principle preventing the laws of
+78:59 physics from having been that way but
+79:00 presumably that would cause all kinds of
+79:02 problems for the harmony of the universe
+79:04 analogous to how if you turned up the
+79:07 the strong nuclear force everything
+79:08 would fall apart Sure I I think that's
+79:11 absolutely true But the one thing I
+79:12 would emphasize is when it comes to
+79:16 special relativity time dilation going
+79:18 near the speed of light and time slowing
+79:20 for you relative to somebody else or
+79:22 general relativistic time dilation You
+79:24 go near a black hole and time elapses
+79:25 slower for you than it does for somebody
+79:27 far away You don't notice that Yeah
+79:30 Because it's time itself according to
+79:33 these ideas that is slowing which means
+79:36 that all physical processes that take
+79:38 place in time slow down So your watch
+79:42 slows but your thoughts also slow So
+79:45 from your perspective nothing has
+79:47 changed And so yes could it be that you
+79:50 would disrupt the structure of reality
+79:53 if you had the qualities that you're
+79:55 making reference to sure I can certainly
+79:57 imagine that But bear in mind it's not
+79:59 the individual that their experience
+80:02 somehow changes It's only by comparison
+80:05 to two widely separated individuals or
+80:09 widely differing in their motion
+80:11 individuals where these differences will
+80:13 emerge The individual doesn't realize it
+80:15 at all Well I do seem to realize an
+80:19 increase in speed of time when I'm
+80:21 having an enjoyable conversation and
+80:22 that is what has happened over the past
+80:23 hour or so that we've been talking Brian
+80:25 Green thank you so much for taking the
+80:27 time My pleasure If you enjoyed that
+80:29 conversation you might like my previous
+80:30 episode with David Deutsch for more talk
+80:33 on the multiverse You can watch it by
+80:34 clicking the link that's on your screen
+80:36 To support my work and get early adree
+80:38 access to videos subscribe to my
+80:40 Substack at alexoconor.com
+80:42 Thanks for watching and I'll see you in
+80:44 the next
