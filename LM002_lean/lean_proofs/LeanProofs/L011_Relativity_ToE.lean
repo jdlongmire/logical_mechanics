@@ -396,7 +396,7 @@ def information_testable_predictions : List String := [
    - L014: Experimental tests of information-geometric predictions
    - L015: Connection to quantum field theory in emergent spacetime
 
-   THE INFORMATION REVOLUTION IN THEORETICAL PHYSICS IS COMPLETE! 🚀
+   ToE Sketch in place
 -/
 
 end InformationTheoreticLM
