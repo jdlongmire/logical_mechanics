@@ -1,0 +1,27 @@
+{"synthetic": false,
+ "outputs":
+ {"o": ["6049566064591574670"],
+  "i": "15077632403190127970",
+  "c": "868228888492524695"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\Cli\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\batteries\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\Qq\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\aesop\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\proofwidgets\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\importGraph\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\LeanSearchClient\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\plausible\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\packages\\mathlib\\.lake\\build\\lib\\lean;C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\lib\\lean c:\\Users\\jdlon\\.elan\\toolchains\\leanprover--lean4---v4.22.0\\bin\\lean.exe C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\lean_proofs\\LeanProofs\\L009_Justify_Eventual_Actualization.lean -o C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\lib\\lean\\LeanProofs\\L009_Justify_Eventual_Actualization.olean -i C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\lib\\lean\\LeanProofs\\L009_Justify_Eventual_Actualization.ilean -c C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\ir\\LeanProofs\\L009_Justify_Eventual_Actualization.c --setup C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\.lake\\build\\ir\\LeanProofs\\L009_Justify_Eventual_Actualization.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["LeanProofs.L009_Justify_Eventual_Actualization:deps",
+   [["deps",
+     [["logical_mechanics/LeanProofs:extraDep",
+       [["@logical_mechanics:extraDep", "1723"]]],
+      ["import oleans", "1723"]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.22.0, commit ba2cbbf09d4978f416e0ebd1fceeebc2c4138c05",
+   "8739116525927611134"],
+  ["C:\\Users\\jdlon\\Documents\\logical_mechanics\\LM002_lean\\lean_proofs\\LeanProofs\\L009_Justify_Eventual_Actualization.lean",
+   "2433114807351286261"],
+  ["options", "1723"],
+  ["Module.leanArgs: #[]", "1723"]],
+ "depHash": "4434189346766144276"}
