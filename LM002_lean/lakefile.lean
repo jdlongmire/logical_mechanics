@@ -1,12 +1,13 @@
 import Lake
 open Lake DSL
 
+package "LogicalMechanics" where
+  -- add package configuration options here
+
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4" @ "v4.22.0"
+  "https://github.com/leanprover-community/mathlib4.git"
 
-package logical_mechanics
-
--- Automatically includes all .lean files in the LogicalMechanics directory
--- Lake will discover all .lean files without needing to list them individually
-lean_lib LogicalMechanics where
-  srcDir := "."
+@[default_target]
+lean_lib "LogicalMechanics" where
+  srcDir := "lean_proofs"
+  globs := #[.submodules `lean_proofs]
